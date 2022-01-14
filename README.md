@@ -1,23 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set up a "Hello Microverse" 
 
-> One paragraph statement about the project.
+
+> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
+
+
 
 ![screenshot](./screenshot.png)
 
-Additional description about the project and its features.
 
+
+Additional description about the project 
 ## Built With
 
-- Major languages
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-- HTML
-
+- Html 
+- Css
 
 
 ## Authors
